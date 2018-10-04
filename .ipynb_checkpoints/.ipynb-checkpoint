@@ -340,7 +340,7 @@
     "    else:\n",
     "        print(\"sorry you are not allowed in here\")\n",
     "\n",
-    "gende\n"
+    "gender=input()\n"
    ]
   }
  ],
